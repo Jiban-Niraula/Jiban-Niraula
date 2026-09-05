@@ -1,238 +1,319 @@
-<!-- Jiban Niraula | GitHub Profile Dashboard -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:0B1220,50:0B3B60,100:06B6D4&amp;text=JIBAN%20NIRAULA&amp;fontColor=E6F7FF&amp;fontSize=46&amp;fontAlignY=37&amp;desc=Laravel%20Developer%20%7C%20Aspiring%20DevOps%20Engineer&amp;descAlignY=58&amp;descSize=17&amp;animation=fadeIn" alt="Jiban Niraula — Laravel Developer and Aspiring DevOps Engineer" />
+<!-- ====================================================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Linux%20%E2%80%A2%20Docker%20%E2%80%A2%20CI%2FCD%20%E2%80%A2%20NGINX%20%E2%80%A2%20Automation;Building%20%E2%80%A2%20Deploying%20%E2%80%A2%20Debugging%20%E2%80%A2%20Improving;Developer%20Background%20%E2%86%92%20DevOps%20Journey" alt="Linux, Docker, CI/CD, NGINX and automation" />
+<!-- 01 — IDENTITY / HERO                                  -->
 
-<br />
+<!-- ====================================================== -->
 
-<a href="https://github.com/Jiban-Niraula"><img src="https://img.shields.io/badge/GitHub-Jiban--Niraula-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" /></a>
-<a href="https://www.linkedin.com/in/jiban-niraula-595a78352/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn profile" /></a>
-<img src="https://img.shields.io/badge/Focus-DevOps%20%2F%20Cloud-0891B2?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="DevOps and Cloud focus" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=205&color=0:020617,35:0F172A,70:0C4A6E,100:0891B2&text=JIBAN%20NIRAULA&fontColor=F8FAFC&fontSize=46&fontAlignY=35&desc=Laravel%20Developer%20%E2%86%92%20Aspiring%20DevOps%20Engineer&descAlignY=56&descSize=17&animation=fadeIn"/>
 
-</div>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Linux+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD+%E2%80%A2+NGINX+%E2%80%A2+Automation;Developer+Foundation+%E2%86%92+DevOps+Mindset;Build+%E2%86%92+Automate+%E2%86%92+Deploy+%E2%86%92+Debug+%E2%86%92+Improve"/>
+</a>
 
-## `~/dashboard`
+<br/>
 
-| `STATUS` | `VALUE` |
-|:--|:--|
-| **Current Role** | Laravel Developer |
-| **Direction** | DevOps / Cloud Engineering |
-| **Strongest Areas** | Linux · Docker · Git · CI/CD · NGINX |
-| **Exploring** | Kubernetes · Terraform · Cloud · Monitoring |
-| **Philosophy** | Build → Automate → Break → Debug → Improve |
+<a href="https://github.com/Jiban-Niraula">
+<img src="https://img.shields.io/badge/GITHUB-JIBAN--NIRAULA-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## `~/stack`
+<a href="https://www.linkedin.com/in/jiban-niraula-595a78352/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Jiban-Niraula&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"/>
 
-<sub><b>DEVOPS / INFRASTRUCTURE</b></sub>
+<br/><br/>
 
-<br /><br />
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,docker,kubernetes,nginx,githubactions,jenkins,ansible,terraform,aws&amp;theme=dark&amp;perline=7" alt="Linux, Ubuntu, Bash, Git, GitHub, Docker, Kubernetes, NGINX, GitHub Actions, Jenkins, Ansible, Terraform and AWS" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/AlmaLinux-000000?style=flat-square&amp;logo=almalinux&amp;logoColor=44C7F4" alt="AlmaLinux" />
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker Compose" />
-
-<br /><br />
-
-<sub><b>DEVELOPMENT FOUNDATION</b></sub>
-
-<br /><br />
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,java,js,mysql,html,css&amp;theme=dark&amp;perline=8" alt="PHP, Laravel, Python, Java, JavaScript, MySQL, HTML and CSS" />
-
-</div>
-
-## `~/featured-work`
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-<h3><a href="https://github.com/Jiban-Niraula/HEBS">HEBS</a></h3>
+<td align="center" width="25%">
 
-<p><code>Laravel 11</code> <code>React</code> <code>TypeScript</code> <code>Docker</code> <code>GHCR</code> <code>AlmaLinux</code></p>
+### `ROLE`
 
-<p>School website and CMS with an end-to-end container delivery workflow.</p>
-
-<ul>
-<li>Multi-stage Docker build and test target</li>
-<li>GitHub Actions image publishing to GHCR</li>
-<li>Digest-pinned deployment with health-check rollback</li>
-</ul>
+<img src="https://img.shields.io/badge/Laravel-Developer-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
 
 </td>
-<td width="50%" valign="top">
 
-<h3><a href="https://github.com/Jiban-Niraula/DevOps-nginx-lb">DevOps NGINX Load Balancer</a></h3>
+<td align="center" width="25%">
 
-<p><code>NGINX</code> <code>Docker Compose</code> <code>WordPress</code> <code>MySQL</code></p>
+### `DIRECTION`
 
-<p>Infrastructure lab for reverse proxying and round-robin traffic distribution.</p>
-
-<ul>
-<li>Two application containers behind NGINX</li>
-<li>Shared MySQL service and bridge network</li>
-<li>Backend tracing and failover exercises</li>
-</ul>
+<img src="https://img.shields.io/badge/DevOps-Cloud-0891B2?style=flat-square&logo=linux&logoColor=white"/>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-<h3><a href="https://github.com/Jiban-Niraula/CICD_Project">CICD Project</a></h3>
+<td align="center" width="25%">
 
-<p><code>GitHub Actions</code> <code>Docker Compose</code> <code>React</code> <code>Express</code> <code>MongoDB</code> <code>NGINX</code></p>
+### `CORE`
 
-<p>Container delivery experiment built around a full-stack SaaS application.</p>
-
-<ul>
-<li>Self-hosted GitHub Actions deployment</li>
-<li>Secrets injected into runtime configuration</li>
-<li>Compose rebuild, restart and log verification</li>
-</ul>
+<img src="https://img.shields.io/badge/Linux-Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED"/>
 
 </td>
-<td width="50%" valign="top">
 
-<h3><a href="https://github.com/Jiban-Niraula/BookStacks">BookStacks</a></h3>
+<td align="center" width="25%">
 
-<p><code>Flask</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Docker Compose</code></p>
+### `STATUS`
 
-<p>Three-tier library application with a frontend proxy, API and relational database.</p>
-
-<ul>
-<li>JWT authentication and member/admin roles</li>
-<li>Borrowing records with availability rules</li>
-<li>Dockerfiles, service network and persistent DB volume</li>
-</ul>
+<img src="https://img.shields.io/badge/BUILDING-PUBLICLY-16A34A?style=flat-square&logo=githubactions&logoColor=white"/>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-<h3><a href="https://github.com/Jiban-Niraula/ansible_practice">Ansible Practice</a></h3>
-
-<p><code>Ansible</code> <code>YAML</code> <code>DNF</code> <code>Docker CE</code></p>
-
-<p>Focused playbook for preparing Docker on a DNF-based Linux host.</p>
-
-<ul>
-<li>Docker CE repository and package installation</li>
-<li>User/group configuration</li>
-<li>Enabled and started Docker service</li>
-</ul>
-
-</td>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/Jiban-Niraula/TaskMate">TaskMate</a></h3>
-
-<p><code>Laravel 12</code> <code>Breeze</code> <code>Blade</code> <code>Tailwind CSS</code></p>
-
-<p>Laravel application foundation currently centered on authentication and profiles.</p>
-
-<ul>
-<li>Registration, login and password reset</li>
-<li>Email verification and protected dashboard</li>
-<li>Profile update and account deletion</li>
-</ul>
-
-</td>
 </tr>
 </table>
 
-## `~/github-analytics`
+</div>
+
+---
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jiban-Niraula&amp;theme=github_dark&amp;animation=rise" alt="Jiban's GitHub statistics" />
-<img height="170" src="https://streak-stats.demolab.com?user=Jiban-Niraula&amp;theme=github-dark-blue&amp;hide_border=true" alt="Jiban's GitHub contribution streak" />
+<!-- ====================================================== -->
 
-<br />
+<!-- 02 — STACK + DEVOPS SYSTEMS                            -->
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiban-Niraula&amp;theme=github_dark&amp;animation=load" alt="Jiban's GitHub contribution activity" />
+<!-- ====================================================== -->
 
-</div>
+# ⚡ DEVOPS COMMAND CENTER
 
-## `~/delivery-path`
+<br/>
 
-```text
-Code → Git → CI → Build / Test → Container → Registry → Deploy → Observe
-                                                       ├── Linux
-                                                       └── Kubernetes
-```
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
 
-<h3>Currently Exploring</h3>
+<td width="33%" valign="top" align="center">
 
-<p>🐧 Linux Administration</p>
-<p>🐳 Docker &amp; Networking</p>
-<p>⚙️ CI/CD Automation</p>
-<p>🤖 Ansible</p>
+### 🟢 `CORE SYSTEMS`
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-<h3>Next Foundations</h3>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,docker&perline=3"/>
 
-<p>☸️ Kubernetes</p>
-<p>🏗️ Terraform</p>
-<p>☁️ Cloud Infrastructure</p>
-<p>📊 Monitoring</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LINUX-DAILY%20DRIVER-0D1117?style=flat-square&logo=linux&logoColor=FCC624"/>
+
+<img src="https://img.shields.io/badge/GIT-VERSION%20CONTROL-0D1117?style=flat-square&logo=git&logoColor=F05032"/>
+
+<img src="https://img.shields.io/badge/DOCKER-CONTAINERS-0D1117?style=flat-square&logo=docker&logoColor=2496ED"/>
 
 </td>
+
+<td width="33%" valign="top" align="center">
+
+### 🔵 `BUILDING WITH`
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nginx,ansible,jenkins,mysql,githubactions,php&perline=3"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CI%2FCD-GITHUB%20ACTIONS-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF"/>
+
+<img src="https://img.shields.io/badge/NGINX-PROXY%20%2F%20LB-0D1117?style=flat-square&logo=nginx&logoColor=009639"/>
+
+<img src="https://img.shields.io/badge/ANSIBLE-AUTOMATION-0D1117?style=flat-square&logo=ansible&logoColor=white"/>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🟡 `NEXT LAYER`
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,aws,prometheus,grafana,python&perline=3"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/KUBERNETES-EXPLORING-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
+
+<img src="https://img.shields.io/badge/TERRAFORM-IaC-0D1117?style=flat-square&logo=terraform&logoColor=844FBA"/>
+
+<img src="https://img.shields.io/badge/CLOUD-BUILDING%20FOUNDATION-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+
+</td>
+
 </tr>
 </table>
 
-```text
-Application Development
-          ↓
-Infrastructure & Operations
-          ↓
-Hands-on DevOps Projects
-          ↓
-DevOps / Cloud Engineering
-```
+<br/>
 
-<div align="center">
+### `DELIVERY FLOW`
 
-### `understand → automate | deploy → verify | fail → debug | improve → repeat`
+<br/>
+
+<img src="https://img.shields.io/badge/CODE-020617?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/GIT-020617?style=for-the-badge&logo=git&logoColor=F05032"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/CI-020617?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/BUILD-020617?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/DEPLOY-020617?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/OBSERVE-020617?style=for-the-badge&logo=prometheus&logoColor=E6522C"/>
+
+<br/><br/><br/>
+
+### `FEATURED SYSTEMS`
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/Jiban-Niraula/HEBS">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiban-Niraula&repo=HEBS&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=94A3B8&icon_color=22D3EE"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/GHCR-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AlmaLinux-000000?style=flat-square&logo=almalinux&logoColor=white"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/Jiban-Niraula/DevOps-nginx-lb">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiban-Niraula&repo=DevOps-nginx-lb&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=94A3B8&icon_color=22D3EE"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Load_Balancing-0891B2?style=flat-square"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/Jiban-Niraula/ansible_practice">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiban-Niraula&repo=ansible_practice&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=94A3B8&icon_color=22D3EE"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Automation-0E7490?style=flat-square"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/Jiban-Niraula/CICD_Project">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiban-Niraula&repo=CICD_Project&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=94A3B8&icon_color=22D3EE"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-0E7490?style=flat-square"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
-## `~/contributions`
+---
 
 <div align="center">
+
+<!-- ====================================================== -->
+
+<!-- 03 — LIVE ENGINEERING TELEMETRY                        -->
+
+<!-- ====================================================== -->
+
+# 📡 LIVE ENGINEERING TELEMETRY
+
+<br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiban-Niraula&theme=github_dark"/>
+
+<br/><br/>
+
+<table width="100%">
+<tr>
+
+<td width="33%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jiban-Niraula&theme=github_dark"/>
+</td>
+
+<td width="33%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jiban-Niraula&theme=github_dark"/>
+</td>
+
+<td width="33%" align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jiban-Niraula&theme=github_dark&utcOffset=5.75"/>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Jiban-Niraula&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=94A3B8&icon_color=22D3EE&rank_icon=github"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Jiban-Niraula&theme=github-dark-blue&hide_border=true&background=020617&ring=22D3EE&fire=38BDF8&currStreakLabel=38BDF8"/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jiban-Niraula&bg_color=020617&color=94A3B8&line=22D3EE&point=38BDF8&area=true&area_color=0E7490&hide_border=true&custom_title=Contribution%20Activity"/>
+
+<br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jiban-Niraula/Jiban-Niraula/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jiban-Niraula/Jiban-Niraula/output/github-contribution-grid-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/Jiban-Niraula/Jiban-Niraula/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jiban-Niraula/Jiban-Niraula/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jiban-Niraula/Jiban-Niraula/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Jiban-Niraula/Jiban-Niraula/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-</div>
+<br/><br/>
 
-## `~/connect`
+<a href="https://github.com/Jiban-Niraula?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+</a>
 
-<div align="center">
+<a href="https://www.linkedin.com/in/jiban-niraula-595a78352/">
+<img src="https://img.shields.io/badge/LET'S-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<a href="https://github.com/Jiban-Niraula"><img src="https://img.shields.io/badge/Explore-My_Repositories-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Jiban's repositories" /></a>
-<a href="https://www.linkedin.com/in/jiban-niraula-595a78352/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Jiban on LinkedIn" /></a>
+<br/><br/>
 
-<br /><br />
+### `BUILD  →  AUTOMATE  →  DEPLOY  →  DEBUG  →  IMPROVE  →  REPEAT`
 
-<sub><code>developer@jiban:~$ build --automate --debug --improve --repeat</code></sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:020617,45:0F172A,100:0891B2"/>
 
 </div>
