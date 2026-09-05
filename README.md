@@ -1,371 +1,238 @@
-<!--
-  JIBAN NIRAULA — GITHUB PROFILE DASHBOARD
-  Profile repository: https://github.com/Jiban-Niraula/Jiban-Niraula
--->
+<!-- Jiban Niraula | GitHub Profile Dashboard -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=JIBAN%20NIRAULA&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Developer%20%E2%86%92%20DevOps%20Journey&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:0B1220,50:0B3B60,100:06B6D4&amp;text=JIBAN%20NIRAULA&amp;fontColor=E6F7FF&amp;fontSize=46&amp;fontAlignY=37&amp;desc=Laravel%20Developer%20%7C%20Aspiring%20DevOps%20Engineer&amp;descAlignY=58&amp;descSize=17&amp;animation=fadeIn" alt="Jiban Niraula — Laravel Developer and Aspiring DevOps Engineer" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Laravel+Developer+%7C+Aspiring+DevOps+Engineer;Linux+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD+%E2%80%A2+NGINX+%E2%80%A2+Automation;Learning+by+building%2C+deploying%2C+breaking+%26+fixing;Turning+code+into+repeatable+deployments" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Linux%20%E2%80%A2%20Docker%20%E2%80%A2%20CI%2FCD%20%E2%80%A2%20NGINX%20%E2%80%A2%20Automation;Building%20%E2%80%A2%20Deploying%20%E2%80%A2%20Debugging%20%E2%80%A2%20Improving;Developer%20Background%20%E2%86%92%20DevOps%20Journey" alt="Linux, Docker, CI/CD, NGINX and automation" />
 
-<br/>
+<br />
 
-<a href="https://www.linkedin.com/in/jiban-niraula-595a78352/">
-  <img src="https://img.shields.io/badge/LinkedIn-Jiban%20Niraula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Jiban-Niraula">
-  <img src="https://img.shields.io/badge/GitHub-Jiban--Niraula-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-00ADD8?style=for-the-badge&logo=linux&logoColor=white" />
+<a href="https://github.com/Jiban-Niraula"><img src="https://img.shields.io/badge/GitHub-Jiban--Niraula-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" /></a>
+<a href="https://www.linkedin.com/in/jiban-niraula-595a78352/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn profile" /></a>
+<img src="https://img.shields.io/badge/Focus-DevOps%20%2F%20Cloud-0891B2?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="DevOps and Cloud focus" />
 
 </div>
 
----
+## `~/dashboard`
 
-## `whoami`
+| `STATUS` | `VALUE` |
+|:--|:--|
+| **Current Role** | Laravel Developer |
+| **Direction** | DevOps / Cloud Engineering |
+| **Strongest Areas** | Linux · Docker · Git · CI/CD · NGINX |
+| **Exploring** | Kubernetes · Terraform · Cloud · Monitoring |
+| **Philosophy** | Build → Automate → Break → Debug → Improve |
 
-```yaml
-name: Jiban Niraula
-current_role:
-  - Laravel Developer
-  - Aspiring DevOps Engineer
+## `~/stack`
 
-direction: DevOps / Cloud / Linux Infrastructure
+<div align="center">
 
-hands_on:
-  - Linux administration
-  - Docker & Docker Compose
-  - Git & GitHub
-  - GitHub Actions CI/CD
-  - NGINX reverse proxy & load balancing
-  - Ansible automation
+<sub><b>DEVOPS / INFRASTRUCTURE</b></sub>
 
-currently_deepening:
-  - Kubernetes
-  - Terraform / Infrastructure as Code
-  - Cloud infrastructure
-  - Monitoring & observability
+<br /><br />
 
-mindset: "Build → Automate → Break → Debug → Improve → Repeat"
-```
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,docker,kubernetes,nginx,githubactions,jenkins,ansible,terraform,aws&amp;theme=dark&amp;perline=7" alt="Linux, Ubuntu, Bash, Git, GitHub, Docker, Kubernetes, NGINX, GitHub Actions, Jenkins, Ansible, Terraform and AWS" />
 
-I started from application development and gradually became more interested in **what happens after the code is written** — how it is built, tested, containerized, deployed, routed, monitored and recovered when something fails.
+<br /><br />
 
-That curiosity is what pulled me toward **DevOps**.
+<img src="https://img.shields.io/badge/AlmaLinux-000000?style=flat-square&amp;logo=almalinux&amp;logoColor=44C7F4" alt="AlmaLinux" />
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker Compose" />
 
-I am not presenting myself as someone who has mastered every DevOps tool. I am building the foundations through hands-on projects and trying to understand **why the system works**, not only which command to run.
+<br /><br />
 
----
+<sub><b>DEVELOPMENT FOUNDATION</b></sub>
 
-## ⚡ DevOps Control Panel
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,java,js,mysql,html,css&amp;theme=dark&amp;perline=8" alt="PHP, Laravel, Python, Java, JavaScript, MySQL, HTML and CSS" />
+
+</div>
+
+## `~/featured-work`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Systems
+<h3><a href="https://github.com/Jiban-Niraula/HEBS">HEBS</a></h3>
 
-```text
-OS              Linux / Ubuntu / AlmaLinux
-Shell           Bash
-Web / Proxy     NGINX
-Containers      Docker / Docker Compose
-Version Ctrl    Git / GitHub
-```
+<p><code>Laravel 11</code> <code>React</code> <code>TypeScript</code> <code>Docker</code> <code>GHCR</code> <code>AlmaLinux</code></p>
+
+<p>School website and CMS with an end-to-end container delivery workflow.</p>
+
+<ul>
+<li>Multi-stage Docker build and test target</li>
+<li>GitHub Actions image publishing to GHCR</li>
+<li>Digest-pinned deployment with health-check rollback</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔁 Delivery & Automation
+<h3><a href="https://github.com/Jiban-Niraula/DevOps-nginx-lb">DevOps NGINX Load Balancer</a></h3>
 
-```text
-CI/CD           GitHub Actions
-Automation      Ansible
-Orchestration   Kubernetes
-IaC             Terraform
-Cloud           Building foundations
-```
+<p><code>NGINX</code> <code>Docker Compose</code> <code>WordPress</code> <code>MySQL</code></p>
+
+<p>Infrastructure lab for reverse proxying and round-robin traffic distribution.</p>
+
+<ul>
+<li>Two application containers behind NGINX</li>
+<li>Shared MySQL service and bridge network</li>
+<li>Backend tracing and failover exercises</li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/Jiban-Niraula/CICD_Project">CICD Project</a></h3>
+
+<p><code>GitHub Actions</code> <code>Docker Compose</code> <code>React</code> <code>Express</code> <code>MongoDB</code> <code>NGINX</code></p>
+
+<p>Container delivery experiment built around a full-stack SaaS application.</p>
+
+<ul>
+<li>Self-hosted GitHub Actions deployment</li>
+<li>Secrets injected into runtime configuration</li>
+<li>Compose rebuild, restart and log verification</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/Jiban-Niraula/BookStacks">BookStacks</a></h3>
+
+<p><code>Flask</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Docker Compose</code></p>
+
+<p>Three-tier library application with a frontend proxy, API and relational database.</p>
+
+<ul>
+<li>JWT authentication and member/admin roles</li>
+<li>Borrowing records with availability rules</li>
+<li>Dockerfiles, service network and persistent DB volume</li>
+</ul>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/Jiban-Niraula/ansible_practice">Ansible Practice</a></h3>
+
+<p><code>Ansible</code> <code>YAML</code> <code>DNF</code> <code>Docker CE</code></p>
+
+<p>Focused playbook for preparing Docker on a DNF-based Linux host.</p>
+
+<ul>
+<li>Docker CE repository and package installation</li>
+<li>User/group configuration</li>
+<li>Enabled and started Docker service</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/Jiban-Niraula/TaskMate">TaskMate</a></h3>
+
+<p><code>Laravel 12</code> <code>Breeze</code> <code>Blade</code> <code>Tailwind CSS</code></p>
+
+<p>Laravel application foundation currently centered on authentication and profiles.</p>
+
+<ul>
+<li>Registration, login and password reset</li>
+<li>Email verification and protected dashboard</li>
+<li>Profile update and account deletion</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Tech Stack
+## `~/github-analytics`
 
 <div align="center">
 
-### DevOps / Infrastructure
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jiban-Niraula&amp;theme=github_dark&amp;animation=rise" alt="Jiban's GitHub statistics" />
+<img height="170" src="https://streak-stats.demolab.com?user=Jiban-Niraula&amp;theme=github-dark-blue&amp;hide_border=true" alt="Jiban's GitHub contribution streak" />
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,docker,kubernetes,ansible,terraform,jenkins,nginx,aws&perline=6" />
+<br />
 
-### Development Foundation
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,java,javascript,mysql,html,css&perline=8" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiban-Niraula&amp;theme=github_dark&amp;animation=load" alt="Jiban's GitHub contribution activity" />
 
 </div>
 
-> Development is part of my DevOps story, not something I am trying to hide. Understanding applications helps me understand what I am deploying and operating.
+## `~/delivery-path`
 
----
-
-## 🧭 How I See the DevOps Flow
-
-```mermaid
-flowchart LR
-    A["💻 Code"] --> B["🌿 Git / GitHub"]
-    B --> C["⚙️ CI"]
-    C --> D["🧪 Build & Test"]
-    D --> E["🐳 Container"]
-    E --> F["📦 Registry"]
-    F --> G["🚀 Deployment"]
-    G --> H["🐧 Linux / ☸️ Kubernetes"]
-    H --> I["📊 Observe"]
-    I --> J["🔁 Improve"]
-    J -. feedback .-> A
+```text
+Code → Git → CI → Build / Test → Container → Registry → Deploy → Observe
+                                                       ├── Linux
+                                                       └── Kubernetes
 ```
-
-My goal is to understand every step well enough to **automate it, troubleshoot it and explain it**.
-
----
-
-# 🚀 Featured Engineering Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏫 [HEBS](https://github.com/Jiban-Niraula/HEBS)
+<h3>Currently Exploring</h3>
 
-**Application + deployment engineering**
-
-Laravel/React school platform with a Docker-based CI/CD workflow.
-
-`Docker` `Docker Compose` `GitHub Actions` `GHCR` `AlmaLinux` `CI/CD`
-
-**DevOps highlights**
-- Containerized build and test process
-- GitHub Actions pipeline
-- Image publishing to GHCR
-- Self-hosted AlmaLinux deployment
-- Health verification
-- Automatic rollback approach
+<p>🐧 Linux Administration</p>
+<p>🐳 Docker &amp; Networking</p>
+<p>⚙️ CI/CD Automation</p>
+<p>🤖 Ansible</p>
 
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ [DevOps NGINX Load Balancer](https://github.com/Jiban-Niraula/DevOps-nginx-lb)
+<h3>Next Foundations</h3>
 
-**Hands-on infrastructure lab**
-
-Two WordPress application containers behind NGINX with a shared MySQL database.
-
-`NGINX` `Docker Compose` `MySQL` `Networking`
-
-**Concepts explored**
-- Reverse proxying
-- Round-robin load balancing
-- Container networking
-- Shared database architecture
-- Failover testing
-- Logs and troubleshooting
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [Ansible Practice](https://github.com/Jiban-Niraula/ansible_practice)
-
-**Configuration & automation practice**
-
-A learning repository focused on managing multiple servers and reducing repetitive administration work.
-
-`Ansible` `Linux` `Automation` `SSH`
-
-**Focus**
-- Inventory
-- Managed nodes
-- Playbooks
-- Repeatable configuration
-- Remote administration
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 [BookStacks](https://github.com/Jiban-Niraula/BookStacks)
-
-**Application used as a DevOps learning platform**
-
-A library-management project used to explore the path from development to deployment.
-
-`Application` `Containers` `CI/CD Learning`
-
-**Why it matters**
-- Connects development with operations
-- Provides a real application for deployment experiments
-- Supports learning beyond isolated commands
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔄 [CI/CD Project](https://github.com/Jiban-Niraula/CICD_Project)
-
-**Pipeline experimentation**
-
-A dedicated repository for learning automated software delivery.
-
-`CI/CD` `GitHub Actions` `Automation`
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ [TaskMate](https://github.com/Jiban-Niraula/TaskMate)
-
-**Development foundation**
-
-Laravel-based task management system representing the application-development side of my journey.
-
-`Laravel` `PHP` `MySQL`
+<p>☸️ Kubernetes</p>
+<p>🏗️ Terraform</p>
+<p>☁️ Cloud Infrastructure</p>
+<p>📊 Monitoring</p>
 
 </td>
 </tr>
 </table>
 
----
-
-## 📊 Engineering Activity
+```text
+Application Development
+          ↓
+Infrastructure & Operations
+          ↓
+Hands-on DevOps Projects
+          ↓
+DevOps / Cloud Engineering
+```
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiban-Niraula&theme=github_dark&animation=load" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jiban-Niraula&theme=github_dark&animation=rise" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jiban-Niraula&theme=github_dark&utcOffset=5.75&animation=rise" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jiban-Niraula&theme=github-compact&hide_border=true&area=true&custom_title=Jiban%27s%20Contribution%20Activity" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Jiban-Niraula&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+### `understand → automate | deploy → verify | fail → debug | improve → repeat`
 
 </div>
 
----
-
-## 🐍 Contributions, but make it alive
+## `~/contributions`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jiban-Niraula/Jiban-Niraula/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jiban-Niraula/Jiban-Niraula/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Jiban-Niraula/Jiban-Niraula/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jiban-Niraula/Jiban-Niraula/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jiban-Niraula/Jiban-Niraula/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Jiban-Niraula/Jiban-Niraula/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </picture>
 
 </div>
 
-> The snake appears after the included GitHub Actions workflow runs for the first time.
-
----
-
-## 🧪 What I Actually Like Doing
-
-```text
-$ interests --devops
-
-[+] Linux administration
-[+] Containerizing applications
-[+] Building CI/CD pipelines
-[+] Reverse proxies and load balancing
-[+] Debugging deployment failures
-[+] Automating repetitive server tasks
-[+] Kubernetes labs
-[+] Infrastructure as Code
-[+] Understanding networking between services
-[+] Turning manual deployment steps into repeatable workflows
-```
-
----
-
-## 🎯 Current Mission
-
-<table>
-<tr>
-<td align="center"><b>01</b><br/>Strengthen Linux</td>
-<td align="center">→</td>
-<td align="center"><b>02</b><br/>Master Containers</td>
-<td align="center">→</td>
-<td align="center"><b>03</b><br/>Automate Delivery</td>
-<td align="center">→</td>
-<td align="center"><b>04</b><br/>Orchestrate</td>
-<td align="center">→</td>
-<td align="center"><b>05</b><br/>Operate Reliably</td>
-</tr>
-</table>
-
-```text
-Linux
-  └── Networking
-       └── Docker
-            └── CI/CD
-                 └── Ansible
-                      └── Kubernetes
-                           └── Terraform
-                                └── Cloud
-                                     └── Monitoring
-```
-
----
-
-## 💡 Engineering Principles I'm Building Around
-
-- **Understand before automating**
-- **Automate what is repetitive**
-- **Treat infrastructure as reproducible**
-- **Logs are evidence, not decoration**
-- **A deployment is not complete until it can be verified**
-- **Know how to recover when the happy path fails**
-- **Documentation is part of engineering**
-- **Keep learning through real systems**
-
----
-
-## 🤝 Open To
+## `~/connect`
 
 <div align="center">
 
-`DevOps Internships` • `Junior DevOps Opportunities` • `Linux / Infrastructure Projects`  
-`Open Source` • `Technical Collaboration` • `Learning With DevOps Communities`
+<a href="https://github.com/Jiban-Niraula"><img src="https://img.shields.io/badge/Explore-My_Repositories-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Jiban's repositories" /></a>
+<a href="https://www.linkedin.com/in/jiban-niraula-595a78352/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Jiban on LinkedIn" /></a>
 
-<br/><br/>
+<br /><br />
 
-<a href="https://www.linkedin.com/in/jiban-niraula-595a78352/">
-  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `developer@jiban:~$ ./keep-learning.sh`
-
-**Build. Automate. Break. Debug. Improve. Repeat.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364" />
+<sub><code>developer@jiban:~$ build --automate --debug --improve --repeat</code></sub>
 
 </div>
